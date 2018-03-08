@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 #include <ArduinoJson.h>
 
-#define WIFI_AP "SPACE Visitantes"
-#define WIFI_PASSWORD "#spacesorocaba"
+#define WIFI_AP "AndroidAP"
+#define WIFI_PASSWORD "01010101"
 
 #define TOKEN "L2MJSd58AgRnnbClxJeB"
 
